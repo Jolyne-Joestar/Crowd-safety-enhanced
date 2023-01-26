@@ -1,0 +1,9 @@
+nodes:
+- input.visual:
+    source: C:\Users\Levi Ackerman\Documents\GitHub\Crowd-safety-enhanced\large_crowd.mp4
+- model.csrnet:
+    model_type: dense
+- draw.heat_map
+- draw.legend:
+    show: ["count"]
+- output.screen
