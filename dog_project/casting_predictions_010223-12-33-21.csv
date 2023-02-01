@@ -1,9 +1,0 @@
-Time,filename,pred_label,pred_score
-12:33:21,010.png,defective,99.99847412109375
-12:33:21,0111.jpg,defective,99.89892840385437
-12:33:22,0116.jpeg,normal,98.92618656158447
-12:33:22,0118.jpeg,normal,100.0
-12:33:22,014.jpeg,normal,99.9951720237732
-12:33:22,021.jpeg,defective,100.0
-12:33:22,08.jpeg,normal,61.6608202457428
-12:33:22,auntminnie-c-2020_01_28_23_51_6665_2020_01_28_Vietnam_coronavirus.jpeg,defective,99.9998688697815
